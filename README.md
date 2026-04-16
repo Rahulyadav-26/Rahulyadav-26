@@ -108,8 +108,6 @@ const rahul = {
 
 ## 🏆 GitHub Trophies
 
-## 🏆 GitHub Trophies
-
 <div align="center">
 
 <img src="https://github-profile-trophy.vercel.app/?username=Rahulyadav-26&theme=radical&no-frame=false&no-bg=false&margin-w=6&row=1&column=7" alt="GitHub Trophies" />
