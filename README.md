@@ -21,26 +21,30 @@
 
 ## 🌈 About Me
 
+<img align="right" alt="Coding GIF" width="360" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+
 ```javascript
 const rahul = {
-  name: "Rahul Yadav",
-  role: "Full Stack Developer 🚀",
-  location: "India 🇮🇳",
-  passion: ["Coding", "Problem Solving", "Open Source"],
-  currentlyLearning: ["Cloud Architecture", "System Design", "DevOps"],
-  funFact: "I turn ☕ Coffee into </code> at 2 AM!",
-  motto: "Build. Break. Learn. Repeat. 🔁"
+  name        : "Rahul Yadav",
+  role        : "Full Stack Developer",
+  university  : "B.Tech CSE — India 🇮🇳",
+  strengths   : ["DSA", "System Design", "Full Stack"],
+  solving     : "500+ problems & counting 🧠",
+  building    : "Real-world projects that ship 🚢",
+  superpower  : "Turning algorithms into products",
+  available   : "Internships & Collabs → YES ✅",
+  motto       : "Code it. Ship it. Own it. 🔥"
 };
 ```
 
-<img align="right" alt="Coding GIF" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+<br/>
 
-- 🔭 &nbsp; Currently working on **Next-gen Web Apps**
-- 🌱 &nbsp; Always learning something **new & exciting**
-- 👯 &nbsp; Looking to collaborate on **Open Source Projects**
-- 💬 &nbsp; Ask me about **React, Node.js, MongoDB, TypeScript**
-- ⚡ &nbsp; Fun fact: **I debug with console.log and I'm proud of it!**
-- 🎯 &nbsp; 2025 Goal: **Contribute more to Open Source**
+🎓 &nbsp; CS undergrad who **writes production-grade code**, not just assignments  
+⚔️ &nbsp; Competitive Programmer — **DSA is my second language**  
+🏗️ &nbsp; I don't just learn frameworks — I **build full products with them**  
+🔍 &nbsp; Obsessed with **clean code, system design & scalable architecture**  
+🤝 &nbsp; Open to **internships, collabs & open source contributions**  
+📈 &nbsp; Currently levelling up in **DevOps, Cloud & Backend at scale**
 
 <br clear="right"/>
 
@@ -96,11 +100,17 @@ const rahul = {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Rahulyadav-26&show_icons=true&theme=radical&border_radius=15&hide_border=false&border_color=FF6B6B&title_color=FFCC00&icon_color=FF8E53&text_color=ffffff&bg_color=0d1117" alt="Rahul's GitHub Stats" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Rahulyadav-26&theme=radical&hide_border=false&border=FF6B6B&stroke=FF6B6B&ring=FFCC00&fire=FF8E53&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=FFCC00&sideLabels=48CAE4&dates=aaaaaa&background=0d1117" alt="Rahul's Streak Stats" />
+<!-- Stats Card — stable mirror -->
+<img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Rahulyadav-26&show_icons=true&theme=radical&hide_border=true&count_private=true&title_color=FFCC00&icon_color=FF8E53&text_color=ffffff&bg_color=0d1117" alt="Rahul's GitHub Stats" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahulyadav-26&layout=compact&theme=radical&border_radius=15&hide_border=false&border_color=FF6B6B&title_color=FFCC00&text_color=ffffff&bg_color=0d1117&langs_count=8" alt="Top Languages" />
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Rahulyadav-26&theme=redical&bg_color=0d1117&color=FFCC00&line=FF6B6B&point=FF8E53&area=true&hide_border=false&border_color=FF6B6B" alt="Activity Graph" />
+<!-- Streak Stats — demolab (stable) -->
+<img width="49%" src="https://streak-stats.demolab.com/?user=Rahulyadav-26&theme=radical&hide_border=true&ring=FFCC00&fire=FF8E53&currStreakLabel=FFCC00&sideLabels=48CAE4&background=0d1117" alt="Rahul's Streak Stats" />
+
+<!-- Top Languages — stable mirror -->
+<img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Rahulyadav-26&layout=compact&theme=radical&hide_border=true&title_color=FFCC00&text_color=ffffff&bg_color=0d1117&langs_count=8" alt="Top Languages" />
+
+<!-- Activity Graph — working -->
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Rahulyadav-26&theme=redical&bg_color=0d1117&color=FFCC00&line=FF6B6B&point=FF8E53&area=true&hide_border=true" alt="Activity Graph" />
 
 </div>
 
@@ -110,7 +120,7 @@ const rahul = {
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Rahulyadav-26&theme=radical&no-frame=false&no-bg=false&margin-w=6&row=1&column=7" alt="GitHub Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=Rahulyadav-26&theme=radical&no-frame=true&margin-w=6&row=1&column=6" alt="GitHub Trophies" />
 
 </div>
 
@@ -121,14 +131,12 @@ const rahul = {
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rahulyadav-26/Rahulyadav-26/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rahulyadav-26/Rahulyadav-26/output/github-contribution-grid-snake.svg" />
-  <img alt="Contribution Snake Animation" src="https://raw.githubusercontent.com/Rahulyadav-26/Rahulyadav-26/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rahulyadav-26/Rahulyadav-26/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rahulyadav-26/Rahulyadav-26/output/github-contribution-grid-snake.svg" />
+  <img alt="Contribution Snake Animation" src="https://raw.githubusercontent.com/Rahulyadav-26/Rahulyadav-26/output/github-contribution-grid-snake.svg" />
 </picture>
 
 </div>
-
-
 
 ---
 
@@ -138,7 +146,7 @@ const rahul = {
 
 [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=FF6B6B)](https://open.spotify.com/user/)
 
-> 🎧 **Setup:** Deploy [novatorem](https://github.com/novatorem/novatorem) on Vercel, connect your Spotify account, then replace the link above with your deployed URL!
+> 🎧 **Setup:** Deploy [novatorem](https://github.com/novatorem/novatorem) on Vercel, connect your Spotify account, then replace the URL above with your deployed instance URL!
 
 </div>
 
