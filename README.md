@@ -21,26 +21,30 @@
 
 ## 🌈 About Me
 
+<img align="right" alt="Coding GIF" width="360" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+
 ```javascript
 const rahul = {
-  name: "Rahul Yadav",
-  role: "Full Stack Developer 🚀",
-  location: "India 🇮🇳",
-  passion: ["Coding", "Problem Solving", "Open Source"],
-  currentlyLearning: ["Cloud Architecture", "System Design", "DevOps"],
-  funFact: "I turn ☕ Coffee into </code> at 2 AM!",
-  motto: "Build. Break. Learn. Repeat. 🔁"
+  name        : "Rahul Yadav",
+  role        : "Full Stack Developer",
+  university  : "B.Tech CSE — India 🇮🇳",
+  strengths   : ["DSA", "System Design", "Full Stack"],
+  solving     : "500+ problems & counting 🧠",
+  building    : "Real-world projects that ship 🚢",
+  superpower  : "Turning algorithms into products",
+  available   : "Internships & Collabs → YES ✅",
+  motto       : "Code it. Ship it. Own it. 🔥"
 };
 ```
 
-<img align="right" alt="Coding GIF" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+<br/>
 
-- 🔭 &nbsp; Currently working on **Next-gen Web Apps**
-- 🌱 &nbsp; Always learning something **new & exciting**
-- 👯 &nbsp; Looking to collaborate on **Open Source Projects**
-- 💬 &nbsp; Ask me about **React, Node.js, MongoDB, TypeScript**
-- ⚡ &nbsp; Fun fact: **I debug with console.log and I'm proud of it!**
-- 🎯 &nbsp; 2025 Goal: **Contribute more to Open Source**
+🎓 &nbsp; CS undergrad who **writes production-grade code**, not just assignments  
+⚔️ &nbsp; Competitive Programmer — **DSA is my second language**  
+🏗️ &nbsp; I don't just learn frameworks — I **build full products with them**  
+🔍 &nbsp; Obsessed with **clean code, system design & scalable architecture**  
+🤝 &nbsp; Open to **internships, collabs & open source contributions**  
+📈 &nbsp; Currently levelling up in **DevOps, Cloud & Backend at scale**
 
 <br clear="right"/>
 
