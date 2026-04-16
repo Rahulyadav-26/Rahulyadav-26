@@ -128,7 +128,7 @@ const rahul = {
 
 </div>
 
-> ⚙️ **Snake Setup:** Go to your repo **Settings → Actions → General → Allow all actions**, then create `.github/workflows/snake.yml` — see setup guide below!
+
 
 ---
 
